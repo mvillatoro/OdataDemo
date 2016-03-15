@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace ProductService.Entities
+﻿namespace ProductService.Entities
 {
     public class Major
     {

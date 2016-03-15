@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using ProductService.Entities;
 using ProductService.Enums;
 
 namespace ProductService.Entities
 {
-    public class User
+    public class User   
     {
         public long Id { get; set; }
         public string AccountId { get; set; }
